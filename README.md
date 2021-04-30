@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ranjithkumark8.ranjithkumark8)
-# Hi there 👋 I am Bharath Reddy
+# Hi 👋 I am Bharath Reddy
 ### Learning MERN Stack | Aspiring Full Stack Developer at Masai School 
 
 - 🌱 I’m currently learning and building projects using Mern Stack
