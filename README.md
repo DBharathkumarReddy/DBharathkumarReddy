@@ -17,9 +17,8 @@
 
 
 ## 📫 Reach out to me! <br />
-[![Linkedin Badge](https://img.shields.io/badge/Bharath Reddy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donuri-bharath-kumar-reddy-b9aa6620b/)  [![Mail Badge](https://img.shields.io/badge/-bharathReddy973-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharath.reddy973@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/BharathReddy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donuri-bharath-kumar-reddy-b9aa6620b/)  [![Mail Badge](https://img.shields.io/badge/-bharathReddy973-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bharath.reddy973@gmail.com)
 <!--
-**ranjithkumark8/ranjithkumark8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
