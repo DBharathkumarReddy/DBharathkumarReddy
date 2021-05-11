@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ranjithkumark8.ranjithkumark8)
+
 # Hi 👋 I am Bharath Reddy
 ###  Aspiring Full Stack Developer at Masai School 
 
